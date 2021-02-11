@@ -6,6 +6,6 @@ add more applications to the deployment and improve on my previous submissions. 
 behind this project is to have me be employer competitive with a portfolio the showcases 
 what I am capable of.
 ### Link to deployment
-https://navyace23.github.io/Professional-Portfolio/
+https://jamesgingrich.github.io/Professional-Portfolio/
 #### Screenshot of Deployment
 ![screenshot](Red-Ace.jpeg)
